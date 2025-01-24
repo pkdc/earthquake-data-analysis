@@ -23,5 +23,5 @@ The notebook generates the following visualizations:
 
 - Histogram of earthquake magnitudes.
 - Scatter plot of earthquake locations.
-- Bar plot of earthquake counts by location.
+- Bar plot of Top 10 earthquake counts by location.
 - Scatter plot of depth vs. magnitude.
